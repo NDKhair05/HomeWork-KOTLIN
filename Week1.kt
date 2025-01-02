@@ -19,7 +19,7 @@ fun userInfor() {
     val age = readLine()!!.toInt()
     println("Enter your GPA: ")
     val GPA = readLine()!!.toDouble()
-    println("Name: $name , Age: $age , GPA: $GPA")
+    println("Name: $name || Age: $age || GPA: $GPA")
 }
 
 
